@@ -4,9 +4,6 @@ An user-friendly, Python-based web app using Flask and HTML for early detection 
 ## Team Members
 - **Mohamed Thanish (Project Lead)**
   - LinkedIn: [Mohamed Thanish](https://www.linkedin.com/in/mohamed-thanish-m-b82053218/)
-![its me](https://camo.githubusercontent.com/e5e3a6683ec198f77a00072b9bf00c2f63aae5747bbb0f83142cfe2a21025ccb/68747470733a2f2f6d656469612e6c6963646e2e636f6m2f646d732f696d6167652f43344430334151474K464F2d752d6c436c4J412f70726f66696c652d646973706c617970686f746f2d736872696e6b5f3830305f3830302f302f313636313630363434353736343f653d3137303337323136303026763d6265746126743d48577837786967504e35416c48477035706c575078565f69563375524J7167493151774F546768504Jm7
-
-
 - **Balaji S**
   - LinkedIn: [Balaji S](https://www.linkedin.com/in/balaji-s-892bb8234/)
 - **Sam Aravind S**
