@@ -60,7 +60,7 @@ This code is enchanted under the benevolent Magician's License. You are free to 
 
 🪄 MIT License
 
-Copyright (c) 2022 Mohamed Thanish
+Copyright (c) Dec 2022 Mohamed Thanish
 
 Permission is granted to use, copy, modify, merge, publish, distribute, sublicense, and/or sell this software without restriction, subject to the following conditions:
 
