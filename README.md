@@ -8,7 +8,6 @@ An user-friendly, Python-based web app using Flask and HTML for early detection 
   - LinkedIn: [Balaji S](https://www.linkedin.com/in/balaji-s-892bb8234/)
 - **Sam Aravind S**
   - LinkedIn: [Sam Aravind S](https://www.linkedin.com/in/sam-aravind-r-ai-402096235/)
-![its me ](blob:https://web.whatsapp.com/1b63661e-1d03-44b8-a922-6d2cadb57b75)
 
 ## Challenge
 Detect and prevent fraudulent insurance claims, enhancing security and trust for insurance companies.
